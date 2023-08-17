@@ -1,2 +1,2 @@
 # jubilant-train
-Try create nwe Repository
+Try create new Repository
